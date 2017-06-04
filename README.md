@@ -6,10 +6,10 @@ Using Jupyter Notebook the Academy awards dataset was explored and cleaned up. A
 
 | File name | Description |
 | :--- | :--- |
-| .gitignore | Git ignore file to ignore changes made to certain files |
-| academy_awards_sqlite.ipynb | Jupyter notebook file containing the project code |
-| academy_awards.csv | Dataset used |
-| environment.yml | Project environment required to run this code |
+| [.gitignore](.gitignore) | Git ignore file to ignore changes made to certain files |
+| [academy_awards_sqlite.ipynb](academy_awards_sqlite.ipynb) | Jupyter notebook file containing the project code |
+| [academy_awards.csv](academy_awards.csv) | Dataset used |
+| [environment.yml](environment.yml) | Project environment required to run this code |
 
 ## Setup
 
