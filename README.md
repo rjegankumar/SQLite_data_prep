@@ -10,7 +10,6 @@ Using Jupyter Notebook the Academy awards dataset was explored and cleaned up. A
 | academy_awards_sqlite.ipynb | Jupyter notebook file containing the project code |
 | academy_awards.csv | Dataset used |
 | environment.yml | Project environment required to run this code |
-| README.md | Readme file to know what this project is about |
 
 ## Setup
 
